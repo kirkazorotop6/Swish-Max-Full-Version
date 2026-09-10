@@ -221,3 +221,6 @@ This repository serves as the official landing page for SWiSH Max. The software 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of SWiSH Max today!**
+
+---
+**Last updated:** 2026-09-10 13:18:47 UTC
